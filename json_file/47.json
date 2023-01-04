@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #47",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/47.png",
+  "dna": "c2fb16f237e3c93d1ffe35f292bbcdf20ad3ea2f",
+  "edition": 47,
+  "date": 1672640617272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Monkey Blue"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}

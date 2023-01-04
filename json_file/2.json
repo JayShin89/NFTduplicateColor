@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #2",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/2.png",
+  "dna": "392ed29ba249ec2d854bada0f908872508c772ab",
+  "edition": 2,
+  "date": 1672640604234,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Rat Blue"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}

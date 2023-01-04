@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #25",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/25.png",
+  "dna": "40c10678c6d36b21837cf1485a8cae99ca936a09",
+  "edition": 25,
+  "date": 1672640611169,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Horse Yellow"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}

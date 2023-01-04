@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #11",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/11.png",
+  "dna": "5756895a549978056651a32e45dec470d65d0b2f",
+  "edition": 11,
+  "date": 1672640607098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Tiger Black"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #3",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/3.png",
+  "dna": "9a1a8960df08b63fbe377b7d68a92b9bd06bdbdc",
+  "edition": 3,
+  "date": 1672640604522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Dog White"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}

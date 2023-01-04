@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #63",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/63.png",
+  "dna": "01afd5f1ea7dc041d6eadcf49d713d72e7ca6916",
+  "edition": 63,
+  "date": 1672640621754,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Sheap Red"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}

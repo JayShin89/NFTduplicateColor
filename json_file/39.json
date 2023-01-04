@@ -1,0 +1,22 @@
+{
+  "name": "12CZ #39",
+  "description": "12 Chinese Zodiac by Vanici",
+  "image": "ipfs://QmZ4twEDfcTpVTt1SNBWirEEGwps5667zQAi3CdhsFYop2/39.png",
+  "dna": "4e811e4dc34a1e639a9ebbcf04e087d6008924e6",
+  "edition": 39,
+  "date": 1672640615062,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "12CZ",
+      "value": "Monkey Red"
+    },
+    {
+      "trait_type": "Signature",
+      "value": "Vanici"
+    }
+  ]
+}
